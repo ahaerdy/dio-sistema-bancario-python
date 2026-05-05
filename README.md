@@ -143,7 +143,7 @@ elif opcao == "e":
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 **Pré-requisito:** Python 3.x instalado.
 
@@ -195,7 +195,7 @@ Este projeto integra o percurso formativo do Bootcamp **Suzano Python Developer*
 
 ---
 
-## 📜 Certificado
+## Certificado
 
 Certificado de conclusão disponível em: [https://hermes.dio.me/certificates/7UHQZHML.pdf](https://hermes.dio.me/certificates/7UHQZHML.pdf)
 
