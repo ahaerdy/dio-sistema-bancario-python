@@ -203,4 +203,6 @@ Certificado de conclusão disponível em: [https://hermes.dio.me/certificates/7U
 
 ## Referências:
 
-- [Repositório de Estudos - Bootcamp Suzano Python Developer](https://github.com/ahaerdy/dio-learning/tree/main/Suzano%20-%20Python%20Developer)
+- [Repositório de Estudos — Bootcamp Suzano Python Developer](https://github.com/ahaerdy/DIO-learning/tree/main/Suzano%20-%20Python%20Developer)
+- [Repositório de Estudos — Bootcamp NTT DATA: Engenharia de Dados com Python](https://github.com/ahaerdy/DIO-learning/tree/main/NTT%20DATA-Engenharia%20de%20Dados%20com%20Python)
+
