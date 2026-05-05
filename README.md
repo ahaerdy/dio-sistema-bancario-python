@@ -4,7 +4,7 @@ Projeto desenvolvido como desafio prático do **Bootcamp Suzano Python Developer
 
 ---
 
-## 📋 Descrição
+## Descrição
 
 Implementação de um sistema bancário simples em Python puro, sem uso de bibliotecas externas. O sistema simula operações essenciais de um banco digital: **depósito**, **saque** e **extrato**, com regras de negócio aplicadas via lógica de programação.
 
@@ -17,18 +17,18 @@ O projeto foi desenvolvido com foco em:
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 | Operação | Descrição |
 |----------|-----------|
-| 💰 Depósito | Aceita valores positivos e acumula no saldo |
-| 💸 Saque | Permite até 3 saques diários com limite de R$ 500,00 por operação |
-| 📄 Extrato | Lista todas as movimentações e exibe o saldo atual |
-| 🚪 Sair | Encerra o programa |
+| Depósito | Aceita valores positivos e acumula no saldo |
+| Saque | Permite até 3 saques diários com limite de R$ 500,00 por operação |
+| Extrato | Lista todas as movimentações e exibe o saldo atual |
+| Sair | Encerra o programa |
 
 ---
 
-## 🧠 Como o Projeto Foi Desenvolvido
+## Como o Projeto Foi Desenvolvido
 
 ### 1. Menu interativo com loop contínuo
 
@@ -160,7 +160,7 @@ python desafio.py
 
 ---
 
-## 📌 Regras de Negócio
+## Regras de Negócio
 
 - ✅ Apenas **valores positivos** são aceitos em depósitos e saques.
 - ✅ Limite de **R$ 500,00** por operação de saque.
@@ -174,7 +174,7 @@ python desafio.py
 ## 🗂️ Estrutura do Projeto
 
 ```
-sistema-bancario-python/
+dio-sistema-bancario-python/
 │
 └── desafio.py       # Script principal com toda a lógica do sistema
 ```
@@ -201,7 +201,6 @@ Certificado de conclusão disponível em: [https://hermes.dio.me/certificates/7U
 
 ---
 
-## 👤 Autor
+## Referências:
 
-Desenvolvido como parte do portfólio de estudos em Python.
-Bootcamp **Suzano Python Developer** — [DIO](https://www.dio.me/)
+- [Repositório de Estudos - Bootcamp Suzano Python Developer](https://github.com/ahaerdy/dio-learning/tree/main/Suzano%20-%20Python%20Developer)
