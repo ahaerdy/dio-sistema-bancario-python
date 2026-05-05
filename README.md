@@ -181,7 +181,7 @@ dio-sistema-bancario-python/
 
 ---
 
-## 🎓 Contexto de Aprendizado
+## Contexto de Aprendizado
 
 Este projeto integra o percurso formativo do Bootcamp **Suzano Python Developer** (DIO) e explora os seguintes conceitos da linguagem Python:
 
